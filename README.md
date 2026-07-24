@@ -24,9 +24,7 @@
 | 📊 **Data Analytics Stack** | Python, SQL, Power BI, Excel |
 | ⚙️ **DevOps Stack** | Git, GitHub, Docker, Linux |
 | 🚀 **Launched Projects** | Coming soon |
-| 📜 **Certifications** | Google Data Analytics Professional Certificate |
-| 💼 **Current Status** | QA Internship completed @ Appverse Technologies |
-| 🌱 **Open To** | Data Analytics roles · Software/Full-Stack Development · Internships · Higher Studies & Scholarships |
+| 🌱 **Open To** | Data Analytics roles · Internships · Devops Roles|
 
 <br/>
 
