@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=200&section=header&text=Muhammad%20Ahsan&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Data%20Analyst%20%7C%20Full%20Stack%20Developer&descAlignY=65&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=200&section=header&text=Muhammad%20Ahsan&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Data%20Analytics%20%7C%20DevOps%20Cloud%20Engineer&descAlignY=65&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Turning+Data+Into+Decisions;Full+Stack+MERN+Developer;BS+Computer+Science+%40+COMSATS;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Turning+Data+Into+Decisions;DevOps+%7C+Cloud+Engineer;BS+Computer+Science+%40+COMSATS;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </a>
 
 <img src="https://img.shields.io/static/v1?label=Status&message=Open%20to%20Work&color=brightgreen&style=for-the-badge" alt="Open to Work"/>
@@ -17,30 +17,16 @@
 
 ## 👋 Who I Am
 
-```typescript
-const muhammadAhsan = {
-  title: "Data Analyst & Full Stack Developer",
-  education: "BS Computer Science, COMSATS University Islamabad (Sahiwal Campus)",
-  expectedGraduation: 2027,
-  stack: {
-    dataAnalytics: ["Python", "SQL", "Power BI", "Excel"],
-    devOps: ["Git", "GitHub", "Docker", "Linux"],
-  },
-  launchedProjects: [
-    // 🚧 Featured projects coming soon
-  ],
-  certifications: [
-    "Google Data Analytics Professional Certificate",
-  ],
-  status: "QA Internship completed @ Appverse Technologies",
-  openTo: [
-    "Data Analytics roles",
-    "Software / Full-Stack Development",
-    "Internships",
-    "Higher Studies & Scholarships",
-  ],
-};
-```
+| | |
+|---|---|
+| 🎯 **Title** | Data Analytics & DevOps Cloud Engineer |
+| 🎓 **Education** | BS Computer Science, COMSATS University Islamabad (Sahiwal Campus) — Expected 2027 |
+| 📊 **Data Analytics Stack** | Python, SQL, Power BI, Excel |
+| ⚙️ **DevOps Stack** | Git, GitHub, Docker, Linux |
+| 🚀 **Launched Projects** | Coming soon |
+| 📜 **Certifications** | Google Data Analytics Professional Certificate |
+| 💼 **Current Status** | QA Internship completed @ Appverse Technologies |
+| 🌱 **Open To** | Data Analytics roles · Software/Full-Stack Development · Internships · Higher Studies & Scholarships |
 
 <br/>
 
